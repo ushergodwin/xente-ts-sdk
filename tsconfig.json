@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "lib": ["es2016", "dom"],
+      "module": "CommonJS",
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "baseUrl": ".",
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
+  
